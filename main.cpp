@@ -1,4 +1,5 @@
 #include "board.hpp"
+#include "hasamishogi_AI.hpp"
 #include <iostream>
 #include <limits>
 
